@@ -3,7 +3,7 @@
 This document contains a page-by-page analysis of UI and usability problems found in the **Bad UI Website** used in the Udemy "Manual Testing for Complete Beginners" course.
 
 Each section includes:
-- Screenshot placeholder (replace with your actual screenshot path).
+- Screenshot placeholder 
 - List of identified problems.
 - Why it’s bad.
 - Suggested fixes.
